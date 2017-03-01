@@ -1,0 +1,55 @@
+Probability Calibration - https://www.quora.com/How-is-isotonic-regression-used-in-practice-for-calibration-in-machine-learning
+Tensor Flow - https://www.tensorflow.org/versions/r0.10/tutorials/mnist/beginners/index.html
+Cox Proportional Hazard Model - http://blog.applied.ai/survival-analysis-part-4/
+Cox Proportional Hazard Model - http://www.gog.org/sdcstaff/MikeSill/Classes/STA575/Lectures/LectureNotesChp5.pdf
+Cox Proportional Hazard Model Video - https://www.youtube.com/watch?v=s_tUi7mAJ44&list=PLg6YRuHszRaoti74lISXOQEcOjIc-3NBY
+Bayesian Updates - https://www.youtube.com/watch?v=w1u6-_2jQJo
+Survival Decision Tree - http://www.benkuhn.net/survival-trees
+Anderson - Darling Test - http://stackoverflow.com/questions/24783951/how-do-we-pass-two-datasets-in-scipy-stats-anderson-ksampcan-anyone-explain-wit
+Survival Random Forest in R - https://pedroconcejero.wordpress.com/2015/11/12/survival-random-forests-for-churn-prediction-3/
+Decision Tree - http://people.revoledu.com/kardi/tutorial/DecisionTree/index.html
+Feature Scaling - http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+Matrix Factorization - http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
+Explanation for Feature Importance for Random Forest in Python - http://stackoverflow.com/questions/15810339/how-are-feature-importances-in-randomforestclassifier-determined
+LIME (Local Interpretable Model-Agnostic Explanations) - http://arxiv.org/pdf/1602.04938v1.pdf
+Survival Analysis Lecture - https://www.youtube.com/watch?v=fTX8GghbBPc
+Simple Xgboost Tutorial for Classification - https://www.kaggle.com/cbrogan/titanic/xgboost-example-python/code
+Parameter Tuning in GBM - https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
+Parameter Tuning in Xgboost - https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+Xgboost Presentation - http://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
+Difference between GBM and Adaboost - http://stats.stackexchange.com/questions/164233/intuitive-explanations-of-differences-between-gradient-boosting-trees-gbm-ad
+Good Tutorial on Gradient Boosting - http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf
+Adaboost - https://www.otexts.org/1539
+Multi-class Adaboost - https://web.stanford.edu/~hastie/Papers/samme.pdf
+Introduction to t-SNE - https://www.oreilly.com/learning/an-illustrated-introduction-to-the-t-sne-algorithm
+Density based clustering - https://blog.dominodatalab.com/topology-and-density-based-clustering/
+Bootstrap for Confidence Intervals - http://www.dummies.com/education/science/biology/the-bootstrap-method-for-standard-errors-and-confidence-intervals/
+Bootstrap for Confidence Intervals Justification - https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf
+Gini vs Entropy - https://www.garysieling.com/blog/sklearn-gini-vs-entropy-criteria
+Discrete vs Real Adaboost  - http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_hastie_10_2.html
+Imbalance Classification Problems - https://mlr-org.github.io/mlr-tutorial/release/html/over_and_undersampling/index.html
+Levels of Measurement - http://psc.dss.ucdavis.edu/faculty_sites//sommerb/sommerdemo/scaling/levels.htm
+Generative Adversarial Networks Tutorial - https://arxiv.org/pdf/1701.00160.pdf
+Generative vs Discriminative Algorithms - http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
+Stemmers for NLP - http://suanfazu.com/t/what-are-the-major-differences-and-benefits-of-porter-and-lancaster-stemming-algorithms/963 
+Beware of the KS Test - https://asaip.psu.edu/Articles/beware-the-kolmogorov-smirnov-test
+Latent Dirichlet Allocation in Python - https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
+Interpreting Random Forest - http://blog.datadive.net/interpreting-random-forests/
+QQ Plot - https://www.youtube.com/watch?v=IgIN9-4-kSg
+Multivariate Imputation by Chained Equations - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074241/
+Gradient Descent and Linear Regression - https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/
+Formulas for Random Variables - http://www.kaspercpa.com/statisticalreview.htm
+
+Tensorflow Visualizations
+
+Tensorflow Playground - http://playground.tensorflow.org/
+Tensorflow Projector (W2V & MNIST) - http://projector.tensorflow.org/
+
+Random Articles
+
+Advancements in Deep Learning in 2016 - https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
+Confidence Interval for Predictions - https://scottlocklin.wordpress.com/2016/12/05/predicting-with-confidence-the-best-machine-learning-idea-you-never-heard-of/
+reCapTCHA - http://www.loopinsight.com/2014/03/14/duolingo-recaptcha-and-a-magnificent-piece-of-crowdsourcing/
+Deep Neural Networks at Youtube - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+Data Science at Twitter - https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.xg16qpth9
+ML Done Wrong - http://ml.posthaven.com/machine-learning-done-wrong

@@ -1,0 +1,49 @@
+VIM - http://www.openvim.com/
+Python-mode (Vim) - https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+Python Packages - http://python-packaging.readthedocs.io/en/latest/minimal.html
+Git & GitHub - http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+What is an API? - https://www.youtube.com/watch?v=s7wmiS2mSXY
+Regex - https://developers.google.com/edu/python/regular-expressions
+Plotting in Pandas - http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-19.html
+Getting data from boxplot in Pandas - http://stackoverflow.com/questions/33518472/getting-data-of-a-boxplot-pandas
+GPU - https://www.mapd.com/blog/2017/01/23/what-is-a-gpu-and-why-do-i-care-a-businesspersons-guide-2/
+Git and GitHub - http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+Python Packages - http://python-packaging.readthedocs.io/en/latest/minimal.html
+Merge & Rebase - https://www.atlassian.com/git/tutorials/merging-vs-rebasing/conceptual-overview
+MangoDB & HBase - https://www.mongodb.com/compare/mongodb-hbase\
+Multiprocessing Python - http://chriskiehl.com/article/parallelism-in-one-line/
+Vlookup - http://howtovlookupinexcel.com/vlookup-between-two-workbooks/
+Cross-validation in python - http://www.dummies.com/programming/big-data/data-science/data-science-cross-validating-in-python/
+Overview of Apache Spark - https://www.toptal.com/spark/introduction-to-apache-spark
+Overview of Apache Spark - https://www.mapr.com/blog/5-minute-guide-understanding-significance-apache-spark
+Caching Github password for HTTPS - http://stackoverflow.com/questions/18672787/how-to-make-git-only-ask-password-when-push-to-remote-repository
+Environment Variables and PATH - https://cbednarski.com/articles/understanding-environment-variables-and-the-unix-path/
+Changing remotes - https://help.github.com/articles/changing-a-remote-s-url/
+Window Functions in Spark SQL - https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html
+Getting started with spark in python - https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python
+Managing Processes in Linux - https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux
+Cross Joins in SQL - http://www.w3resource.com/sql/joins/cross-join.php
+Apt-get for Cygwin - https://github.com/transcode-open/apt-cyg
+Installing Xgboost for Python - https://www.ibm.com/developerworks/community/blogs/jfp/entry/Installing_XGBoost_For_Anaconda_on_Windows?lang=en
+Standard Deviation Function in Spark 1.5 - http://stackoverflow.com/questions/34061005/how-to-find-standard-deviation-in-a-column-in-a-rdd-in-pyspark
+Versioning Jupyter Notebooks - http://www.kdnuggets.com/2016/10/jupyter-notebook-best-practices-data-science.html
+Python Decorators - http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
+OOP Basics in Python - https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+Introduction to pip and virtualenv - https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/
+Git Annex vs Git LFS - https://workingconcept.com/blog/git-annex-vs-git-lfs
+Git LFS - https://www.atlassian.com/git/tutorials/git-lfs/
+Auto-scaling sklearn with Apache Spark - https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-apache-spark.html
+Introduction to Graph Databases - https://academy.datastax.com/resources/getting-started-graph-databases
+Invalidate Metadata in Impala - http://stackoverflow.com/questions/33888133/cloudera-impala-invalidate-metadata
+Port Numbers in TCP - http://stackoverflow.com/questions/13190176/how-does-port-number-really-work-in-tcp
+"Joel Test" for Data Science - https://blog.dominodatalab.com/joel-test-data-science/?utm_source=linkedin&utm_campaign=ent-insurance-ds&utm_medium=cpc&utm_content=&as_clid=bdf52b6e-fc74-481a-d5ab-78f65f650e00
+Introduction to JSON - https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/
+Processor and CPU Details on Linux - http://www.binarytides.com/linux-check-processor/
+Export command - https://linuxconfig.org/learning-linux-commands-export
+Convert tab separated files to csv - http://stackoverflow.com/questions/3509332/how-to-convert-a-tab-separated-file-into-comma-separated-file
+Interactive Dashboards in Ipython Notebook - https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
+Plot Decision Tree - http://scikit-learn.org/stable/modules/tree.html
+Histogram Shapes - http://asq.org/learn-about-quality/data-collection-analysis-tools/overview/histogram2.html
+Seaborn Distribution Plots - http://seaborn.pydata.org/tutorial/distributions.html
+HTML Cheat Sheet - http://www.simplehtmlguide.com/cheatsheet.php
+Awk Examples - http://www.thegeekstuff.com/2010/03/awk-arrays-explained-with-5-practical-examples/
